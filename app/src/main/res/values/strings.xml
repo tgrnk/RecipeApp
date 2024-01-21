@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Кулинарное логово</string>
+    <string name="sign_in">Войти</string>
+    <string name="hint_username">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="btn_sign_in">Войти</string>
+    <string name="create_acc">Создать аккаунт</string>
+    <string name="btn_sign_up">Зарегестрироваться</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="login_acc">Войти в аккаунт</string>
+    <string name="error_login">Ошибка авторизации</string>
+    <string name="name">Имя:</string>
+    <string name="hint_email">Почта</string>
+    <string name="email">Почта:</string>
+    <string name="logout">Выйти</string>
+    <string name="home">Основная</string>
+    <string name="categories">Категории</string>
+    <string name="favorite">Любимое</string>
+    <string name="profile">Профиль</string>
+
+    <string name="link_google">
+        <a href ="https://i.pinimg.com/474x/57/80/4d/57804d3d79f0b20dc404885b16587a06.jpg">RecipeApp</a>
+    </string>
+
+    <string name="link_gmail">recipeapp@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chorizo_mozzarella_gnocchi_bake"><![CDATA[Chorizo & mozzarella gnocchi bake]]></string>
+    <string name="_45_min">45 min</string>
+    <string name="todo">TODO</string>
+</resources>

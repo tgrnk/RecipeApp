@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHome"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/navCategories"
+        android:title="@string/categories"
+        android:icon="@drawable/collapse_categories_svgrepo_com"/>
+
+    <!--
+    <item
+        android:id="@+id/navAdd"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_add"/>
+        -->
+    <item
+        android:id="@+id/navProfile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profile"/>
+</menu>
